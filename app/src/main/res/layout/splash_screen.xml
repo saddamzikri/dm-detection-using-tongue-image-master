@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/bgsplash"
+    >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:layout_marginTop="100dp"
+        android:fontFamily="sans-serif-black"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        android:text="Identifikasi Diabetes Mellitus melalui Lidah"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="30sp" />
+
+    <ImageView
+        android:layout_width="228dp"
+        android:layout_height="233dp"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="150dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/logoti" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="373dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="550dp"
+        android:fontFamily="sans-serif-black"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        android:text="Muhammad Saddam Zikri Dalimunthe\n191402083\n\nProgram Studi Teknologi Informasi\nFakultas Ilmu Komputer dan Teknologi Informasi"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="18dp" />
+
+
+</RelativeLayout>

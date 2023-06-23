@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <shape xmlns:android="http://schemas.android.com/apk/res/android">
+        <solid android:color="#086623" /> <!-- Ganti dengan warna latar belakang yang Anda inginkan -->
+        <corners android:radius="10dp" /> <!-- Sesuaikan radius sudut sesuai preferensi Anda -->
+    </shape>
+
+</selector>

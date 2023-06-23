@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Diabetes Detection</string>
+    <string name="buttonSelectPhoto">Sélectionnez une photo</string>
+    <string name="buttonTakePhoto">Démarrer la caméra</string>
+    <string name="buttonDiagnose">Détecter</string>
+    <string name="defaultImage">Image par défaut définie maintenant ...</string>
+    <string name="descriptionImage">Vue pour afficher image</string>
+    <string name="diseases">Maladies</string>
+    <string name="button">Bouton</string>
+    <string name="dm_detection">DM Detection</string>
+</resources>

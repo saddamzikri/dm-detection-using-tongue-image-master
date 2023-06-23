@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pendeteksi DM Melalui Lidah</string>
+    <string name="buttonSelectPhoto">Pilih Gambar</string>
+    <string name="buttonTakePhoto">Mulai Kamera</string>
+    <string name="buttonDiagnose">Deteksi</string>
+    <string name="defaultImage">Pilih gambar yang akan di deteksi</string>
+    <string name="descriptionImage">View for displaying image</string>
+    <string name="dm_detection">Pendeteksi DM melalui Lidah</string>
+    <string name="diseases">Klik Gambar Kamera Untuk Mulai Mendeteksi</string>
+    <string name="button">Button</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">dm detection by tongue image</string>
+    <string name="buttonSelectPhoto">select photo</string>
+    <string name="buttonTakePhoto">take photo</string>
+    <string name="buttonDiagnose">diagnose</string>
+    <string name="defaultImage">
+        default image...</string>
+    <string name="descriptionImage">
+        description image</string>
+    <string name="dm_detection">dm detection</string>
+    <string name="diseases">
+        disease</string>
+    <string name="button">button</string>
+</resources>
